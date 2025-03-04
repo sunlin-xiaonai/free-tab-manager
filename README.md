@@ -27,4 +27,6 @@
 
 ![联系我](https://pic.binghub.site/binghub/obsidian/9611741054800_.pic.jpg)
 ---
-[![请我喝咖啡](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=您的用户名&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/nx36683g)
+
+<!-- 方案一：使用Buy Me A Coffee提供的大号按钮 -->
+<a href="https://www.buymeacoffee.com/nx36683g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="请我喝咖啡" style="height: 60px !important;width: 217px !important;" ></a>
