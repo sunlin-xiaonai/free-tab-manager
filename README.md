@@ -23,4 +23,8 @@
 - [ ] 更多浏览器支持
 - [ ] 更多需求搜集中....
 
+### 交个朋友｜请我喝杯咖啡
 
+![联系我](https://pic.binghub.site/binghub/obsidian/9611741054800_.pic.jpg)
+---
+[![请我喝咖啡](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=您的用户名&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/nx36683g)
