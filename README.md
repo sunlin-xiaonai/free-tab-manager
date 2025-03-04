@@ -10,6 +10,9 @@
 数据安全，不做任何个人数据的采集！！！
 插件地址： https://chromewebstore.google.com/detail/free-tab-extender/chefhnhinkdclieiebgekkndmofihfmf?hl=zh-CN&utm_source=ext_sidebar
 
+# 使用方式
+- 直接去插件市场地址，今天chrome扩展田间即可
+- git clone 或者下载源代码解压，在谷歌浏览器找到扩展选项，选择加载已经解压的扩展程序即可使用
 
 
 ### 参考资源
