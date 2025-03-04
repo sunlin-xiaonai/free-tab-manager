@@ -11,12 +11,16 @@
 插件地址： https://chromewebstore.google.com/detail/free-tab-extender/chefhnhinkdclieiebgekkndmofihfmf?hl=zh-CN&utm_source=ext_sidebar
 
 # 使用方式
+（注意chrome 版本不能太老，我测试版本是133开头的）
 - 直接去插件市场地址，今天chrome扩展田间即可
 - git clone 或者下载源代码解压，在谷歌浏览器找到扩展选项，选择加载已经解压的扩展程序即可使用
 
 
-### 参考资源
-- [Chrome 扩展开发文档](https://developer.chrome.com/docs/extensions/)
-- [Manifest V3 指南](https://developer.chrome.com/docs/extensions/mv3/intro/)
-- [Chrome 存储 API](https://developer.chrome.com/docs/extensions/reference/storage/)
-- [Chrome 侧边栏 API](https://developer.chrome.com/docs/extensions/reference/sidePanel/) 
+### 迭代规划
+
+- [ ] 完善多账户数据同步/可以进行浏览器数据导入导出（两种方法决策中）
+- [ ] 增加标签搜索功能
+- [ ] 更多浏览器支持
+- [ ] 更多需求搜集中....
+
+
