@@ -28,5 +28,14 @@
 ![联系我](https://pic.binghub.site/binghub/obsidian/9611741054800_.pic.jpg)
 ---
 
-<!-- 方案一：使用Buy Me A Coffee提供的大号按钮 -->
+## 🧡 支持这个项目
+
+如果这个项目对你有所帮助，可以通过以下方式支持我继续开发和维护：
+
+### ☕ Buy Me A Coffee
+
 <a href="https://www.buymeacoffee.com/nx36683g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="请我喝咖啡" style="height: 60px !important;width: 217px !important;" ></a>
+
+<!-- ### 💚 微信赞赏 -->
+
+感谢您的支持！您的每一份贡献都将帮助我持续改进这个项目 ❤️
